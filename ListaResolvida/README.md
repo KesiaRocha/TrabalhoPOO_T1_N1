@@ -1,6 +1,6 @@
 # TrabalhoPOO-2023.1
 <h1 align="center">TRABALHO DE POO</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">✨Lista de exercícios JAVA!✨</h3>
 
 
 <div align=center>
