@@ -5,3 +5,7 @@
 <div align=center>
 <img src = "https://user-images.githubusercontent.com/124710521/224388297-6bda0d56-b708-4f19-b748-4090cca57e54.gif">
 <div>
+
+
+<img src = "https://discord.com/channels/@me/795515503773745152/1083926465290190848.gif">
+<div>
