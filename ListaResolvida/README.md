@@ -7,5 +7,5 @@
 <div>
 
 
-<img src = "https://discord.com/channels/@me/795515503773745152/1083926465290190848.gif">
+<img src = 
 <div>
